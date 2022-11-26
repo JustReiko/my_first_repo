@@ -2,4 +2,5 @@
 
 Добавили локальный текст. Add English text locally
 
-Добавил текст через браузер.
+Добавил текст через браузер. Add English text in a browser.
+
